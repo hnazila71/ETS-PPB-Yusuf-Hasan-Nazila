@@ -107,7 +107,7 @@ fun TaskManagerApp() {
             ) {
                 Column(modifier = Modifier.padding(16.dp)) {
                     Text(
-                        "Daily Task Manager",
+                        "Do Everything",
                         style = MaterialTheme.typography.headlineSmall
                     )
                     Spacer(modifier = Modifier.height(4.dp))
